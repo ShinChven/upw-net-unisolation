@@ -1,6 +1,7 @@
 # upw-net-unisolation
 
 - Unlock your uwp app from NetIsolation. 
+- UWP app's network is isolated by default, so you can put it thru your proxy.
 - This lib helps you find your uwp app's SID and it will return you with the command to unisolate your uwp app's network.
 - You'll have to enter the command yourself.
 
